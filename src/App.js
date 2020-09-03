@@ -68,6 +68,7 @@ class App extends Component {
     return (
       <div className="App-form">
         <header>
+        <h1> My Todo List </h1>
           <form id="todo-form" onSubmit={this.addItem}>
             <input
               type="text"

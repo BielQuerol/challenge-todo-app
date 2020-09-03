@@ -9,6 +9,7 @@
     "@fortawesome/react-native-fontawesome": "^0.2.5",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-flip-move": "^3.0.4",
     "react-scripts": "2.1.8"
   },
   "scripts": {
